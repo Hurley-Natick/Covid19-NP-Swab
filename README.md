@@ -297,7 +297,7 @@ See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situation
 <a name="results"></a>
 ## Results
 
-As materials and designs (including existing swabs) get tested, we will record passing results here. See images in the img/ [directory.](img/).
+As materials and designs (including existing swabs) get tested, we will record passing results here. See images in the appropriate subfolders in the [img/ directory.](img/)
 
 <img src="img/results.png">
 
