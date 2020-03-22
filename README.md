@@ -143,7 +143,7 @@ The ability to print a swab complete with bristles or equivalent saves the steps
 
 Stereolithography 3D printed prototypes by **OPT Industries** look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once, on their own DLP/SLA machines); we are testing materials now.
 <img src="img/carbon_formlabs_bristles.png" width=100%>
-<img src="img/OPT_industries/OPTIndustries_full_Swab_2.jpg" width=30%>
+<img src="img/OPT_industries/OPTIndustries_full_Swab_1.jpg" width=33%> <img src="img/OPT_industries/OPTIndustries_full_Swab_2.jpg" width=33%>
 
 
 
