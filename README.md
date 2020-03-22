@@ -297,11 +297,49 @@ See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situation
 <a name="results"></a>
 ## Results
 
-As materials and designs (including existing swabs) get tested, we will record results here. Please organize entries into the following fields. We plan to turn into a (sortable) table, but don't wait for that: just upload entries (separating each entry by line breaks). Please **copy** the below for each entry (i.e., don't overwrite it). If you need help [contact us](#contact).
+As materials and designs (including existing swabs) get tested, we will record passing results here. See images in the img/ [directory.](img/).
 
+<img src="img/results.png">
+
+Please organize entries into the following fields. We plan to turn into a (sortable, updatable) table, but don't wait for that: just upload entries (separating each entry by line breaks). Please **copy** the below for each entry (i.e., don't overwrite it). If you need help [contact us](#contact).
 ___
 
 ### ENTRY TEMPLATE
+
+#### Identifier
+This is a unique identifier, ideally including the source's name
+
+#### Date of test
+
+#### Test site
+E.g., BIDMC
+
+#### Picture
+Please take a high-resolution picture of the **entire** item provided.
+
+#### Material
+Please describe all (known) materials in the bulb head, including plastic, any adhesive, and any flock
+
+#### Process
+Please include a brief description of the design process that an expert would understand well enough to reproduce. For repurposed swabs, write "commercial."
+
+#### Creator (contact info and company)
+How to contact the creator for questions/further development
+
+#### Link to stl and cad files
+Please send .stl and CAD files, which we will post.
+
+#### Test 1: NP swab user evaluation (eg an ID doc), with comments
+If passes, write "Pass". If fails, write "Fail" and give a brief reason why. Should be filled out by someone who has experience actually using NP swabs in a clinical context. Please leave the name of this person.
+
+#### Test 2: Collection test
+If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.)
+
+#### Test 3: PCR compatibility (and which protocol used)
+As above, "Pass" vs. "Fail". Please indicate the protocol used. You can post the protocol in the Testing/ directory, and link to it here
+
+___
+
 
 #### Identifier
 This is a unique identifier, ideally including the source's name
