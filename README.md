@@ -14,19 +14,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 
 Anything you find here is free for use for all.
 
-
-### High-level summary, March 21:
-
-We are pursuing three main approaches:
-- 3D printing [shafts](#design) and [gluing](#adhesive) [flock](#flock). We have good shaft designs modeled on the images below. Bottlenecks (1) [finding](#adhesive)/[testing](#testing) PCR-compatible glues. (2) High-throughput assembly and packaging. [Results](#results) should start appearing below.
-
-- 3D printing all-in-one swab (meaning printing bristles together with/on shaft). We have promising designs (something like the below; stl/CAD files coming) but need to iterate to get to something usable; bottleneck is materials testing.
-
-- Repurposing existing swabs. We are testing materials.
-
-We will report results as we have them below.
-
-If you want us to test swab materials at BIDMC we are happy to, you can **overnight** them to **Dr. Ramy Arnaout, MD DPhil, 508 Heath Street #2, Chestnut Hill, MA 02467** (note we are setting up dedicated 24/7 receiving at the hospital so this address will change, but your material will still get here). 
+If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (calla4@bidmc.harvard.edu). 
 
 For efficiency, we strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
@@ -54,7 +42,7 @@ For efficiency, we strongly suggest you find local partners either in addition o
 
 <img src="img/copan_flocked_swab_macro.png" width="100%">
 
-An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid ([viral transport medium, VTM](Other_Docs/VTM_IU_recipe.pdf)). The vial gets capped and sent for processing.
+An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium, VTM, for which there are now recipes [from IU](Other_Docs/VTM_IU_recipe.pdf) and [the CDC](Other_Docs/CDC_Viral-Transport-Medium.pdf)). The vial gets capped and sent for processing.
 
 There are **two parts**: a bristled **bulb** end (above) and a **shaft**. The bristles in the above are nylon.
 
