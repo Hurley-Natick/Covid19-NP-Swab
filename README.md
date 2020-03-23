@@ -290,9 +290,8 @@ See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situation
 
 As materials and designs (including existing swabs) get tested, we will record passing results [here](Results/np_swab_results.xlsx). See images in the appropriate subfolders in the [img/ directory.](img/)
 
-<img src="img/results.png">
 
-Please organize entries into the following fields. We plan to turn into a (sortable, updatable) table, but don't wait for that: just upload entries (separating each entry by line breaks). Please **copy** the below for each entry (i.e., don't overwrite it). If you need help [contact us](#contact).
+Please organize entries into the following fields.  If you need help [contact us](#contact).
 ___
 
 ### ENTRY TEMPLATE
