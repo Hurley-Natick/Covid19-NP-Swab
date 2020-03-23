@@ -1,6 +1,6 @@
 # Please upload and download models here
 
-## Fathom Models
+## USF Models
 - Dr. Summer Decker (sdecker@usf.edu)
 - Jonathon Ford (jmford2@usf.edu )
 - designed for formlabs surgical material; can autoclave; clinician tested
