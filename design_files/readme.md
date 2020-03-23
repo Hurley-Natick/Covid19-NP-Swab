@@ -1,5 +1,13 @@
 # Please upload and download models here
 
+## OPT Industries Models
+- Jifei Ou (jifei@optindustries.com)
+- stl too big to upload to GitHub. dropbox link below
+<img src="OPTIndustries_full_swab_rendering.png" width=100%>
+
+https://www.dropbox.com/s/ce44jchs8vurto6/OPTIndustries_Swab_CilliaReinforced.stl?dl=0
+
+
 ## Abiogenix Models
 - Goutam Reddy (greddy@abiogenix.com)
 - Fusion 360 links to CAD models

@@ -165,6 +165,8 @@ It should be able to be easily broken off, so that only the tip with the patient
 
 As we get closer to having swabs, we will want a solution for packaging. Ideally at least semi-sterile, definitely single-swab packaging.
 
+Packaging must be RNase-free for the test to work.
+
 Possibly will want to fork this process: more sterile for immunocompromised patients, less for others.
 
 Current best thought is to package manually in sterile hoods:
