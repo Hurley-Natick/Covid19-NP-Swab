@@ -1,5 +1,15 @@
 # Please upload and download models here
 
+## Fathom Models
+- Anne Pauley (anne@studiofathom.com)
+- Chris Blower (cblower@studiofathom.com)
+- Tony Slavik (tony@studiofathom.com)
+- Sldparts / Step / Stl files
+
+1) 
+2)
+3)
+
 ## OPT Industries Models
 - Jifei Ou (jifei@optindustries.com)
 - stl too big to upload to GitHub. dropbox link below
