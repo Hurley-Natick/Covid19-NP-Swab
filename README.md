@@ -324,7 +324,7 @@ Please send .stl and CAD files, which we will post.
 If passes, write "Pass". If fails, write "Fail" and give a brief reason why. Should be filled out by someone who has experience actually using NP swabs in a clinical context. Please leave the name of this person.
 
 #### Test 2: Collection test
-If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.)
+If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.) NOTE: BIDMC is not using fluid in Gram stain.
 
 #### Test 3: PCR compatibility (and which protocol used)
 As above, "Pass" vs. "Fail". Please indicate the protocol used. You can post the protocol in the Testing/ directory, and link to it here
