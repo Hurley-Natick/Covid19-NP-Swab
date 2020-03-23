@@ -1,0 +1,19 @@
+-- Shaft only .stl file attached
+
+Printers:
+
+Fortus 450mc, ULTEM 1010, Solid Infil, .010" layers, T14 Tip
+
+Fortus 450mc, PC-ISO, Solid Infil, .010" layers, T16 Tip
+
+Fortus 450mc, Nylon12CF, Solid Infil, .010" layers, T20 Tip
+
+Markforged Mark Two: Onyx, 100% rectangular infil, .1mm layers, 2 perimeter walls
+
+-- Shaft with USF Swab
+
+Fortus 450mc, ULTEM 1010, Solid Infil, .010" layers, T14 Tip
+
+Markforged Mark Two: Onyx, 100% rectangular infil, .1mm layers, 2 perimeter walls
+
+Objet Connex 3 500, Digital ABS (RGD531/RGD515), 30 micron layers, matte surface
