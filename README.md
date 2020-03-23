@@ -288,8 +288,7 @@ See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situation
 <a name="results"></a>
 ## Results
 
-As materials and designs (including existing swabs) get tested, we will record passing results [here](Results/np_swab_results.xlsx). See images in the appropriate subfolders in the [img/ directory.](img/)
-
+As materials and designs (including existing swabs) get tested, we will record passing results [here](Results/np_swab_results.xlsx). See images in the appropriate subfolders in the [img/ directory.](img/) **Please do not modify this Excel file directly; it will be overwritten.** Instead ask rarnaout@bidmc.harvard.edu for write privileges to the Googledoc spreadsheet that leads to this document.
 
 Please organize entries into the following fields.  If you need help [contact us](#contact).
 ___
