@@ -1,10 +1,18 @@
 # Please upload and download models here
 
 ## Fathom Models
+- Dr. Summer Decker (sdecker@usf.edu)
+- Jonathon Ford (jmford2@usf.edu )
+- designed for formlabs surgical material; can autoclave; clinician tested
+
+1) 
+
+## Fathom Models
 - Anne Pauley (anne@studiofathom.com)
 - Chris Blower (cblower@studiofathom.com)
 - Tony Slavik (tony@studiofathom.com)
-- Sldparts / Step / Stl files
+- Sldparts / Step / Stl files;
+- designed to for capillary action, surface tension of fluid retention
 
 1) 
 2)
