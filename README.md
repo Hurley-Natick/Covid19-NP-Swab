@@ -14,7 +14,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 
 Anything you find here is free for use for all.
 
-If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (callah4@bidmc.harvard.edu). 
+If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (ccallah4@bidmc.harvard.edu). 
 
 For efficiency, we strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
