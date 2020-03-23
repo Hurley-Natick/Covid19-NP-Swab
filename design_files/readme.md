@@ -3,7 +3,8 @@
 ## USF Models
 - Dr. Summer Decker (sdecker@usf.edu)
 - Jonathon Ford (jmford2@usf.edu )
-- designed for formlabs surgical material; can autoclave; clinician tested
+- designed for formlabs surgical material; can autoclave; clinician tested; awaiting virology test
+- being tested in MJF
 
 1) 
 
@@ -12,7 +13,7 @@
 - Chris Blower (cblower@studiofathom.com)
 - Tony Slavik (tony@studiofathom.com)
 - Sldparts / Step / Stl files;
-- designed to for capillary action, surface tension of fluid retention
+- designed to wick/retain fluid for capillary action, surface tension
 
 1) 
 2)
