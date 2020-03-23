@@ -14,7 +14,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 
 Anything you find here is free for use for all.
 
-If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (callah4@bidmc.harvard.edu). 
+If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (calla4@bidmc.harvard.edu). 
 
 For efficiency, we strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
@@ -290,8 +290,9 @@ See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situation
 
 As materials and designs (including existing swabs) get tested, we will record passing results [here](Results/np_swab_results.xlsx). See images in the appropriate subfolders in the [img/ directory.](img/)
 
+<img src="img/results.png">
 
-Please organize entries into the following fields.  If you need help [contact us](#contact).
+Please organize entries into the following fields. We plan to turn into a (sortable, updatable) table, but don't wait for that: just upload entries (separating each entry by line breaks). Please **copy** the below for each entry (i.e., don't overwrite it). If you need help [contact us](#contact).
 ___
 
 ### ENTRY TEMPLATE
@@ -358,7 +359,7 @@ Please send .stl and CAD files, which we will post.
 If passes, write "Pass". If fails, write "Fail" and give a brief reason why. Should be filled out by someone who has experience actually using NP swabs in a clinical context. Please leave the name of this person.
 
 #### Test 2: Collection test
-If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.)
+If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.) Note: BIDMC protocol does not include adding fluid.
 
 #### Test 3: PCR compatibility (and which protocol used)
 As above, "Pass" vs. "Fail". Please indicate the protocol used. You can post the protocol in the Testing/ directory, and link to it here
