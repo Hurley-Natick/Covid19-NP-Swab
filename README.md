@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 *Last updated: March 24, 2020 15:13 ET*
-=======
->>>>>>> 6d7e19bb2ec57a75a64b2afabeabae4c32e38358
 
 # Making NP swabs
 
