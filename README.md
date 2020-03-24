@@ -14,7 +14,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 
 Anything you find here is free for use for all.
 
-If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (ccallah4@bidmc.harvard.edu). 
+If you want us to test swab materials at BIDMC we are happy to, please contact Cody Callahan at BIDMC (ccallah4@bidmc.harvard.edu).
 
 For efficiency, we strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
@@ -146,7 +146,7 @@ For more detail on ideas not yet investigated, including repurposing unrelated i
 
 ### 3D-print entire swab
 
-The ability to print a swab complete with bristles or equivalent saves the steps for requiring adhesive and [flock](#flock). 
+The ability to print a swab complete with bristles or equivalent saves the steps for requiring adhesive and [flock](#flock).
 
 Stereolithography 3D printed prototypes by **OPT Industries** look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once, on their own DLP/SLA machines); we are testing materials now.
 <img src="img/carbon_formlabs_bristles.png" width=100%>
@@ -183,6 +183,11 @@ It should be able to be easily broken off, so that only the tip with the patient
 ## Packaging
 
 As we get closer to having swabs, we will want a solution for packaging. Ideally at least semi-sterile, definitely single-swab packaging.
+
+EnvisionTec has an FDA approved single-swab packaging system, that is capable of printing both the swab and container simultaneously.
+
+<img src="img/EnvisionTec/EnvisionTec_packaging.jpg" width=100%>
+
 
 Packaging must be RNase-free for the test to work.
 
@@ -390,5 +395,3 @@ ___
 We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
 Note there's also now a [Slack channel](https://join.slack.com/t/rapidmanufact-iop4498/shared_invite/zt-cykndes6-XtxzG~8bkji64M3wTVWiOw).
-
-
