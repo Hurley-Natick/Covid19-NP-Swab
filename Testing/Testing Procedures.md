@@ -29,8 +29,20 @@
 # Absorption Testing Procedures
 1) quantify amount of absorption
    TODO: *quantify absorption of current swabs and test against current/old standard*
-   - fill vials with fluid (what viscosity / chemical composition to simulate nasopharyx fluid?)
-   - measure volume of absorption over certain time period (TODO: *assume 5 seconds?*)
+   method #1 with water, narrowest graduated cylinder you can find or tape a ruler/measuring tape to a test tube
+   - fill tube with a known volume of water, note initial volume from bottom of the meniscus
+   - slowly submerge the entire tip (all of the swabbing features) into the water, keep submerged for 5s, slowly withdraw
+   - repeat for total of 10 swabs
+   - measure the change in height of the water level, calculate total volume absorbed and average volume absorbed by each swab
+   
+   method #2 with water, wax paper/parafilm, microbalance (biology or chemistry labs should have one, some mechanical labs) [video](https://drive.google.com/file/d/1JOp8rVTZRIyFNDBDuPVH94QhuYIPi7Vu/view)
+   - crease the wax paper so water will sit in the middle
+   - place the paper on the microbalance and add ~1ml of water. Tare the balance
+   - Hold the swab horizontally above the water droplet.  Slowly lower the swab into the droplet of water and rotate 180 degrees in both directions, ensuring the swab is completely submerged into the droplet and stays submerged for 2 seconds then slowly raise the swab to remove it from the water
+   - repeat for a total of 10 swabs
+   - record the amount of water removed from the scale and calculate the amount abosorbed by each swab.
+   <img src="swab measure absorption weight.PNG" width="50%">
+   
    
 # Sample Collection Testing Procedures
 1) with Methylene blue stain solution
