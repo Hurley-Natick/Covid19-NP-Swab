@@ -5,14 +5,12 @@
 
 This document summarizes BIDMC's evaluation of dozens of [**geometries**](#geometries) (swab designs) and [**materials**](#materials) ([full data here](REF)), with brief comments on [**decontamination/sterilization** and **packaging**](#decon), [**production volume**](#volume), and [**clinical trials**](#trials).
 
-
 - <a href = "#geometries">Geometries</a>
 - <a href = "#materials">Materials</a>
 - <a href = "#decon">Decontamination/sterilization and packaging</a>
 - <a href = "#volume">Production volume</a>
 - <a href = "#trials">Clinical trials</a>
 - <a href = "#contact">Contact</a>
-
 
 
 
@@ -24,19 +22,51 @@ This document summarizes BIDMC's evaluation of dozens of [**geometries**](#geome
 
 ### Tip
 
-#### Preferred tips (no order):
+Tip should:
 
-<img src="honeydipper_tip.png" width=40%> 
+- collect sufficient material (see Gram stains below)
+- not end in a sharp tip (e.g., spring geometry ends in sharp tip; if tip is connected to support regardless of geometry, result is a sharp tip)
+- maximize surface area
+- be flexible (more flexible than bic pen)
+- restore elastically to straight (even after multiple bending)
 
-Honeydipper (FormLabs)
+<img src="eswab_gram_stain.JPG" height=150><img src="carbon_c2_gram_stain.JPG" height=150>
+
+Reference (left) and passing-quality (right) Gram stains of cheek swabs
+
+
+<img src="bend_tip.jpg" height=150>
+
+Tip flexibility
+
+#### Preferred tip:
 
 <img src="hexagon_tip.png" width=40%>
 
 Hexagon (Carbon3D)
 
+This was preferred because the hollowness captured a lot of material, while also being reasonably stiff. This was not a strong preference.
+
+
+#### Also acceptable (no order):
+
 <img src="bristle_tip.png" width=40%>
 
 Bristle (OPT)
+
+<img src="honeydipper_tip.png" width=40%>
+
+Honeydipper (FormLabs) 
+
+<img src="cattail_tip.png" width=40%>
+
+Cattail (HP print of ?USF design)
+
+
+<img src="brush_tip.png" width=40%>
+
+Brush (HP print of ?USF design)
+
 
 Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#flock"). FDA says flock is **preferred** but **not required**.
 
@@ -44,7 +74,7 @@ Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#fl
 
 #### Preferred shaft:
 
-1mm-diameter neck, 2.5mm-dimater handle and \~2mm breakpoint located 7cm from tip-end of swab.
+3mm-diameter tip, 1mm-diameter neck, 2.5mm-dimater handle and \~2mm breakpoint located 7cm from tip-end of swab.
 
 <img src="archetypal_shaft.png" width=100%>
 
@@ -68,18 +98,35 @@ Key features (best performers in parentheses):
 - straight (HP > Carbon3D, FormLabs)
 - smooth to the touch (Carbon3D > FormLabs, HP)
 - dry (not sticky) (Carbon3D, HP, FormLabs)
-- stiffness comparable to that of the inkholder of a bic pen...
-- ...yet flexible: capable of being bent 180 degrees without breaking (except at the breakopint) (HP, Carbon3D)
+- shaft: stiffness comparable to that of the inkholder of a bic pen
+- neck and tip: flexible (capable of being bent 180 degrees without breaking, except at the breakopint) (HP, Carbon3D)
 - breaks at breakpoint (should be somewhat difficult to do) (HP, FormLabs)
+- no dust or other byproduct of printing process
+
+
+<img src="bend_neck.jpg" height=150>
+
+Neck flexibility
+
+#### Preferred material:
 
 <img src="keysplint_soft_material.png" width=100%>
 
 Keysplint Soft (Carbon3D)
 
 
+
 ### PCR compatibility
 
-All materials tested so far are PCR compatibile.
+All materials tested so far (as of March 25, 2020) are PCR compatibile (see Excel for any codenames).
+
+**Passed:** OPT, HP ("USF-1"), EnvisionTec (Nilson), FormLabs, Carbon3D, Pavel.
+
+**Pending:** J_1 (Jifei), USF-2, B_1, S_1 (Seriano), EV.
+
+**Not tested (failed clinical testing):** FT
+
+**Not listed here:** materials from compound manufacturing (shaft plus glue plut flock/PDMS)
 
 
 <a name="decon"></a>
@@ -102,7 +149,7 @@ EnvisionTec's packaging
 <a name="volume"></a>
 ## Production volume
 
-**To my knowledge** EnvisionTec, HP, FormLabs, and Carbon3D all have capacity for producing at least hundreds of thousands per day.
+To my knowledge EnvisionTec, HP, FormLabs, and Carbon3D all have capacity for producing at least hundreds of thousands per day.
 
 
 <a name="trials"></a>
