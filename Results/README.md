@@ -32,7 +32,7 @@ Tip should:
 
 <img src="eswab_gram_stain.JPG" height=150><img src="carbon_c2_gram_stain.JPG" height=150>
 
-Reference (left) and passing-quality (right) Gram stains of cheek swabs
+Reference (left) and passing-quality (right) Gram stains of cheek swabs. Epithelial cells (large faint pink) and (Gram-positive) bacteria (small purple) are clearly seen. Many Gram stains of the prototype NP swabs under evaluation (like the one at right) collected more material than the reference (left), but this should not be interpreted quantitatively (a lot/a little), only qualitatively (yes/no).
 
 
 <img src="bend_tip.JPG" height=150>
