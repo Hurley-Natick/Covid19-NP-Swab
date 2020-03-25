@@ -19,23 +19,9 @@ If you want us to test swab materials at BIDMC we are happy to, please contact C
 For efficiency, we strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
 
-## Summary, March 24, 2 p.m. ET
+## Summary, March 25, 2 p.m. ET
 
-- Based on [results](#results) so far, one or more of the the all-in-one designs will likely pass all design, collection, and PCR compatibility
-
-- The next set of issues will regard sanitizing, packaging, production, and delivery. We will be starting sections on these topics below; already some good progress being reported (e.g. single-swab FDA-sterile packaging from EnvisionTec)
-
-- Rampup of testing of clinical samples at BIDMC (we are in the process of quadrupling capacity in response to increasing demand) slowed testing of materials today in order to give us capacity tomorrow (literally)
-
-- We are continuing to update results of design/collection/PCR compatibility as fast as we can. Please check the Excel sheet for your design and/or material. At this point the fastest way to get your results is checking that document
-
-- The FDA updated their guidance regarding overall swab requirements. Our results suggest this may be more restrictive than it has to be. We are discussing with them
-
-- Relatedly, likely even as the first swabs are printed for widespread dissemination, we will all soon be entering an IRB-supported clinical trials phase of these swabs. I believe Dr. Summer Decker at USF has the most experience here. We at BIDMC are looking into ceding IRB to USF
-
-- Please remember this is a **group effort.** Necessarily not everyone is on all emails or phone calls, but everyone is doing essential work. Credit is to be shared, not taken
-
-- As always, we can't thank everyone enough!
+Please see [here](Results/README.md).
 
 
 ## Contents
