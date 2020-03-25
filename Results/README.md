@@ -38,7 +38,8 @@ Hexagon
 
 Bristle
 
-Note FDA says flock is **preferred** but **not required** (none of the above are flocked).
+Note none of these are [flocked](
+<"https://github.com/HMS-RIC/Covid19-NP-Swab/#flock"). FDA says flock is **preferred** but **not required**.
 
 ### Shaft
 
