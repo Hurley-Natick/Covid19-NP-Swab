@@ -54,7 +54,7 @@ Archetypal
 <a name="stlfiles"></a>
 ### STL files
 
-We do not have all stl files for all designs tested; what we have are [here](REF). If you need one we don't have, please contact its creator (see [here](REF)). If you have an stl file to share, please email it to ccallah@bidmc.harvard.edu with *STL-FILE_<identifier>_<company>* in the subject field.
+We do not have all stl files for all designs tested; what we have are [here](REF). If you need one we don't have, please contact its creator (see [here](REF)). If you have an stl file to share, please email it to ccallah@bidmc.harvard.edu with *STL-FILE_\<identifier>_\<company>* in the subject field.
 
 
 
