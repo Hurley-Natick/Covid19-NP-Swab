@@ -46,9 +46,9 @@ Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#fl
 
 1mm-diameter neck, 2.5mm-dimater handle and \~2mm breakpoint located 7cm from tip-end of swab.
 
-<img src="archetypal_shaft.png" width=100%> (HP)
+<img src="archetypal_shaft.png" width=100%>
 
-Archetypal
+Archetypal (HP)
 
 
 <a name="stlfiles"></a>
