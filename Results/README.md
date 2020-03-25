@@ -48,7 +48,7 @@ Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#fl
 
 <img src="archetypal_shaft.png" width=100%>
 
-Archetypal (HP)
+Archetypal (Abiogenix design (?), HP print)
 
 
 <a name="stlfiles"></a>
