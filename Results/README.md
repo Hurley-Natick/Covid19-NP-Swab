@@ -91,7 +91,7 @@ Likely process: swabs produced and washed at scale, then:
 
 - (option 1) take to a company with autoclavable paper packaging (e.g. Georgia-Pacific, 3M), or
 
-- (option 2) packaged on-site for delivery (e.g. EnvisionTec)
+- (option 2) packaged at manufacturer's site (e.g. EnvisionTec)
 
 <img src="envisiontec_packaging.png" width=70%>
 
