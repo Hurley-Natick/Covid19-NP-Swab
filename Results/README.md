@@ -35,7 +35,7 @@ Tip should:
 Reference (left) and passing-quality (right) Gram stains of cheek swabs
 
 
-<img src="bend_tip.jpg" height=150>
+<img src="bend_tip.JPG" height=150>
 
 Tip flexibility
 
