@@ -28,15 +28,15 @@ This document summarizes BIDMC's evaluation of dozens of [**geometries**](#geome
 
 <img src="honeydipper_tip.png" width=40%> 
 
-Honeydipper 
+Honeydipper (FormLabs)
 
 <img src="hexagon_tip.png" width=40%>
 
-Hexagon 
+Hexagon (Carbon3D)
 
 <img src="bristle_tip.png" width=40%>
 
-Bristle
+Bristle (OPT)
 
 Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#flock"). FDA says flock is **preferred** but **not required**.
 
@@ -46,7 +46,7 @@ Note none of these are [flocked]("https://github.com/HMS-RIC/Covid19-NP-Swab/#fl
 
 1mm-diameter neck, 2.5mm-dimater handle and \~2mm breakpoint located 7cm from tip-end of swab.
 
-<img src="archetypal_shaft.png" width=100%>
+<img src="archetypal_shaft.png" width=100%> (HP)
 
 Archetypal
 
@@ -67,7 +67,7 @@ Key features (best performers in parentheses):
 
 - straight (HP > Carbon3D, FormLabs)
 - smooth to the touch (Carbon3D > FormLabs, HP)
-- dry (not sticky) (Carbon3D, HP, FormLabs > OPT)
+- dry (not sticky) (Carbon3D, HP, FormLabs)
 - stiffness comparable to that of the inkholder of a bic pen...
 - ...yet flexible: capable of being bent 180 degrees without breaking (except at the breakopint) (HP, Carbon3D)
 - breaks at breakpoint (should be somewhat difficult to do) (HP, FormLabs)
