@@ -25,7 +25,7 @@ For efficiency, we strongly suggest you find local partners either in addition o
 
 - The next set of issues will regard sanitizing, packaging, production, and delivery. We will be starting sections on these topics below; already some good progress being reported (e.g. single-swab FDA-sterile packaging from EnvisionTec)
 
-- Rampup of testing of clinical samples at BIDMC (we are in the process of quadruping capacity in response to increasing demand) slowed testing of materials today in order to give us capacity tomorrow (literally)
+- Rampup of testing of clinical samples at BIDMC (we are in the process of quadrupling capacity in response to increasing demand) slowed testing of materials today in order to give us capacity tomorrow (literally)
 
 - We are continuing to update results of design/collection/PCR compatibility as fast as we can. Please check the Excel sheet for your design and/or material. At this point the fastest way to get your results is checking that document
 
