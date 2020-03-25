@@ -104,7 +104,7 @@ Key features (best performers in parentheses):
 - no dust or other byproduct of printing process
 
 
-<img src="bend_neck.jpg" height=150>
+<img src="bend_neck.JPG" height=150>
 
 Neck flexibility
 
