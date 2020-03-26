@@ -175,8 +175,6 @@ EnvisionTec has an FDA approved single-swab packaging system, that is capable of
 <img src="img/EnvisionTec/EnvisionTec_package.jpg" width=100%>
 
 
-Packaging must be RNase-free for the test to work.
-
 Possibly will want to fork this process: more sterile for immunocompromised patients, less for others.
 
 Current best thought is to package manually in sterile hoods:
